@@ -12,4 +12,4 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-{submission_placeholder}
+1 | [A - Perfect Permutation](https://codeforces.com/contest/233/problem/A) | [GNU C++17](./codeforces/233/A.cpp) | `implementation` `math` `*800` | Dec/11/2020 00:23 | 
